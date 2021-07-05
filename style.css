@@ -117,7 +117,7 @@ section container h1 {
 }
 
 .banner {
-    background-image: url(/Starbucks/assets/images/bg.jpg);
+    background-image: url(/images/bg.jpg);
     background-position: center;
     background-size: cover;
     padding-top: 90px;
@@ -158,14 +158,14 @@ section container h1 {
 }
 
 .area1--img1 {
-   background-image: url(/Starbucks/assets/images/f2.jpg);
+   background-image: url(/images/f2.jpg);
    height: 350px;
    background-size: cover;
    background-position: center;
 }
 
 .area1--img2 {
-    background-image: url(/Starbucks/assets/images/f1.jpg);
+    background-image: url(/images/f1.jpg);
     background-size: cover;
     background-position: center;
     grid-column: 2 / 3;
@@ -188,14 +188,14 @@ section container h1 {
 }
 
 .area2--img1 {
-   background-image: url(/Starbucks/assets/images/f4.jpg);
+   background-image: url(/images/f4.jpg);
    height: 450px;
    background-size: cover;
    background-position: center;
 }
 
 .area2--img2 {
-    background-image: url(/Starbucks/assets/images/f3.jpg);
+    background-image: url(/images/f3.jpg);
     background-size: cover;
     background-position: center;
     grid-column: 1 / 2;
@@ -209,7 +209,7 @@ section container h1 {
 
 .area3--content {
     padding:200px 80px;
-    background-image: url(/Starbucks/assets/images/bg2.jpg);
+    background-image: url(/images/bg2.jpg);
    background-size: cover;
    background-position:left;
 }
@@ -221,7 +221,7 @@ section container h1 {
 }
 
 .area3--img1 {
-   background-image: url(/Starbucks/assets/images/f5.jpg);
+   background-image: url(/images/f5.jpg);
    background-size: cover;
    background-position: center;
 }
@@ -242,12 +242,12 @@ section container h1 {
 }
 
 .area4--img1 {
-    background-image: url(/Starbucks/assets/images/bg3.jpg);
+    background-image: url(/images/bg3.jpg);
     background-position: left;
 }
 
 .area5 {
-    background-image: url(/Starbucks/assets/images/bg4.jpg);
+    background-image: url(/images/bg4.jpg);
     background-size: cover;
     background-position: center;
     height: 600px;
